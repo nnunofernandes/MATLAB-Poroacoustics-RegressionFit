@@ -21,12 +21,12 @@ Both scripts expect `absorption_data.csv` and `sample_properties.csv` by default
 | Supplied file | Path in the repository |
 | --- | --- |
 | This README | `README.md` |
-| `fit_absorption_models.m` | `fixed_inputs/fit_absorption_models.m` |
-| `absorption_data(1).csv` | `fixed_inputs/absorption_data.csv` |
-| `sample_properties.csv` | `fixed_inputs/sample_properties.csv` |
-| `fit_absorption_models(1).m` | `bounded_inputs/fit_absorption_models.m` |
-| `absorption_data(2).csv` | `bounded_inputs/absorption_data.csv` |
-| `sample_properties(1).csv` | `bounded_inputs/sample_properties.csv` |
+| `fixed input: fit_absorption_models` | `fixed_inputs/fit_absorption_models.m` |
+| `fixed input: absorption_data` | `fixed_inputs/absorption_data.csv` |
+| `fixed_input: sample_properties` | `fixed_inputs/sample_properties.csv` |
+| `bounded_input: fit_absorption_models` | `bounded_inputs/fit_absorption_models.m` |
+| `bounded_input: absorption_data` | `bounded_inputs/absorption_data.csv` |
+| `bounded_input: sample_properties` | `bounded_inputs/sample_properties.csv` |
 
 The two supplied absorption CSVs are identical. The existing variant-specific READMEs can also be kept as `fixed_inputs/README.md` and `bounded_inputs/README.md`.
 
