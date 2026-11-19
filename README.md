@@ -1,5 +1,7 @@
 # Sound absorption modelling of porous layers in MATLAB
 
+[https://doi.org/10.5281/zenodo.24365069](https://doi.org/10.5281/zenodo.24365069)
+
 Compare measured normal-incidence sound absorption with four equivalent-fluid models: **Delany–Bazley (DB), Miki, Komatsu, and Johnson–Champoux–Allard (JCA)**. The scripts model a homogeneous porous layer with a rigid frame, an impervious rigid backing, and zero backing air gap. The supplied dataset includes samples A, AP, B, BP, C, CP, D, and DP.
 
 ## Choose a workflow
